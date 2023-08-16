@@ -1,2 +1,1 @@
-# Access-PC-Tour
-Access PC walking floorplan tour.
+# Access-PC Walking Tour
